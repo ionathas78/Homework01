@@ -1,3 +1,10 @@
+# 01 HTML CSS Git: Code Refactor
+> I refactored the web site for a marketing company to clean it up and provide SEO
+
+The web site for Horiseon Social Solution Services looked great, but it had a broken link 
+and needed some work at the code level. I made sure everything worked as it should and 
+ran an optimization pass to get everything shipshape for SEO.
+
 ## User Story
 
 ```
@@ -6,7 +13,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
-## Acceptance Criteria
+## Design Values
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -22,9 +29,17 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Review
+## Changes
+1. Changed the page title to add description.
+2. Added ID to repair broken link.
+3. Added viewport support for mobile devices.
+4. Added alt-descriptions for images and made image tags self-closing.
+5. Renamed <div> blocks to leverage HTML5 semantical blocks.
+6. Removed IDs that duplicated new semantical groupings and renamed confusing IDs.
+7. Made 'Gill Sans' the default body font and removed 5 duplicate definitions while 
+preserving existing formatting.
+8. Changed Nav bar to inline-flex display to correct placement on mobile devices.
+9. Consolidated duplicate classes and streamlined CSS selectors.
+10. Updated page copyright.
 
 
-
-- - -
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
