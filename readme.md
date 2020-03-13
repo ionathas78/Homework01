@@ -32,9 +32,9 @@ THEN I find a concise, descriptive title
 ## Changes
 1. Changed the page title to add description.
 2. Added ID to repair broken link.
-3. Added viewport support for mobile devices.
-4. Added alt-descriptions for images and made image tags self-closing.
-5. Renamed &lt;div&gt; blocks to leverage HTML5 semantical groupings.
+3. Added alt-descriptions for images and made image tags self-closing.
+4. Renamed &lt;div&gt; blocks to leverage HTML5 semantical groupings.
+5. Added viewport support for mobile devices.
 6. Removed IDs that duplicated new semantical groupings and renamed confusing IDs.
 7. Made 'Gill Sans' the default body font and removed 5 duplicate definitions while preserving existing formatting.
 8. Changed Nav bar to inline-flex display to correct placement on mobile devices.
