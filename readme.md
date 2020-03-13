@@ -41,3 +41,6 @@ THEN I find a concise, descriptive title
 9. Changed Nav bar to inline-flex display to correct placement on mobile devices.
 10. Consolidated duplicate classes and streamlined CSS selectors.
 11. Updated page copyright.
+
+## Screenshot
+![Webpage screenshot](horiseon_screenshot.jpg)
