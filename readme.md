@@ -34,9 +34,10 @@ THEN I find a concise, descriptive title
 2. Added ID to repair broken link.
 3. Added alt-descriptions for images and made image tags self-closing.
 4. Renamed &lt;div&gt; blocks to leverage HTML5 semantical groupings.
-5. Added viewport support for mobile devices.
-6. Removed IDs that duplicated new semantical groupings and renamed confusing IDs.
-7. Made 'Gill Sans' the default body font and removed 5 duplicate definitions while preserving existing formatting.
-8. Changed Nav bar to inline-flex display to correct placement on mobile devices.
-9. Consolidated duplicate classes and streamlined CSS selectors.
-10. Updated page copyright.
+5. Fixed misleading Header levels.
+6. Added viewport support for mobile devices.
+7. Removed IDs that duplicated new semantical groupings and renamed confusing IDs.
+8. Made 'Gill Sans' the default body font and removed 5 duplicate definitions while preserving existing formatting.
+9. Changed Nav bar to inline-flex display to correct placement on mobile devices.
+10. Consolidated duplicate classes and streamlined CSS selectors.
+11. Updated page copyright.
