@@ -36,8 +36,7 @@ THEN I find a concise, descriptive title
 4. Added alt-descriptions for images and made image tags self-closing.
 5. Renamed <div> blocks to leverage HTML5 semantical blocks.
 6. Removed IDs that duplicated new semantical groupings and renamed confusing IDs.
-7. Made 'Gill Sans' the default body font and removed 5 duplicate definitions while 
-preserving existing formatting.
+7. Made 'Gill Sans' the default body font and removed 5 duplicate definitions while preserving existing formatting.
 8. Changed Nav bar to inline-flex display to correct placement on mobile devices.
 9. Consolidated duplicate classes and streamlined CSS selectors.
 10. Updated page copyright.
