@@ -1,16 +1,16 @@
 # 01 HTML CSS Git: Code Refactor
 > I refactored the web site for a marketing company to clean it up and provide SEO
 
-The web site for Horiseon Social Solution Services looked great, but it had a broken link 
-and needed some work at the code level. I made sure everything worked as it should and 
+The web page for Horiseon Social Solution Services looked great, but it had a broken link 
+and needed some work at the code level. I made sure the site performed as it should and 
 ran an optimization pass to get everything shipshape for SEO.
 
 ## User Story
 
 ```
 AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+THEY WANT a codebase that follows accessibility standards
+SO THAT their site is optimized for search engines
 ```
 
 ## Design Values
@@ -40,5 +40,3 @@ THEN I find a concise, descriptive title
 8. Changed Nav bar to inline-flex display to correct placement on mobile devices.
 9. Consolidated duplicate classes and streamlined CSS selectors.
 10. Updated page copyright.
-
-
